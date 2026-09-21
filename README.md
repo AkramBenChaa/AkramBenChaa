@@ -1,42 +1,79 @@
 # Hi, I'm Akram 👋
 
-## Front-End Developer in Progress
+### Front-End Developer | JavaScript Learner
 
-I'm a self-taught developer focused on building practical web projects, improving my JavaScript skills, and learning modern front-end development.
+I'm a self-taught developer focused on building practical web projects, strengthening my JavaScript skills, and learning modern front-end development.
 
-### 🛠️ Skills
+I enjoy turning ideas into functional, responsive interfaces and improving my projects through practice.
 
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
 - HTML5
 - CSS3
 - JavaScript
-- Git & GitHub
 - Responsive Web Design
 
-### 📚 Currently Learning
+**Tools**
+- Git
+- GitHub
+- VS Code
 
+**Currently Learning**
 - React
 - Modern JavaScript development
-- Better project architecture and clean code
+- Clean code & project architecture
 
-### 🚀 Projects
+---
 
-- 🧮 **[Calculator](https://akrambenchaa.github.io/Calculator-Project/)** — A responsive calculator built with JavaScript and Math.js
-- ✅ **[To-Do List](https://akrambenchaa.github.io/To-Do-List-WebSide-v1/)** — A task manager using DOM manipulation and localStorage
-- 🎓 **[BAC Score](https://akrambenchaa.github.io/Bac-Score-v1/)** — An Algerian Baccalaureate average calculator
-- 💱 **[Currency Converter](https://akrambenchaa.github.io/Currency-conversion-website-v1/)** — A JavaScript currency converter using the Frankfurter API
-- 🎯 **[Guess The Number](https://akrambenchaa.github.io/Guess-The-Number-Game-/)** — A beginner Windows game with a simple web landing page
+## 🚀 Projects
 
-### 🎯 Goals
+### 🧮 Calculator
+A responsive calculator built with JavaScript and Math.js.
 
-Build stronger real-world projects, master modern front-end development, learn React, and continue progressing toward software development and AI.
+🔗 [Live Demo](https://akrambenchaa.github.io/Calculator-Project/)
 
-### 📫 Connect
+### ✅ To-Do List
+A task management web app with DOM manipulation, localStorage, task completion, deletion, and duplicate-task prevention.
+
+🔗 [Live Demo](https://akrambenchaa.github.io/To-Do-List-WebSide-v1/)
+
+### 🎓 BAC Score
+An Algerian Baccalaureate average calculator with a responsive interface and localStorage support.
+
+🔗 [Live Demo](https://akrambenchaa.github.io/Bac-Score-v1/)
+
+### 💱 Currency Converter
+A JavaScript currency converter using the Frankfurter API to retrieve exchange rates.
+
+🔗 [Live Demo](https://akrambenchaa.github.io/Currency-conversion-website-v1/)
+
+### 🎯 Guess The Number
+A simple number-guessing game project built as part of my programming practice.
+
+🔗 [Live Demo](https://akrambenchaa.github.io/Guess-The-Number-Game-/)
+
+---
+
+## 🎯 Current Goals
+
+- Build more complete and real-world projects
+- Strengthen JavaScript and frontend fundamentals
+- Learn React
+- Improve code quality and project structure
+- Build a stronger portfolio
+- Continue progressing toward software development and AI
+
+---
+
+## 📫 Connect With Me
 
 - **GitHub:** [@AkramBenChaa](https://github.com/AkramBenChaa)
 - **LinkedIn:** [Akram Ben Chaa](https://www.linkedin.com/in/akram-ben-chaa-b75256439/)
 - **Instagram:** [@akram.ben.chaa](https://www.instagram.com/akram.ben.chaa/)
-- **Facebook:** [Akram Ben Chaa](https://www.facebook.com/profile.php?id=100083786696538)
 
 ---
 
-*Always learning. Always building.*
+> Always learning. Always building.
