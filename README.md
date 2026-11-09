@@ -1,86 +1,89 @@
-# Hi, I'm Akram Ben Chaa 👋
+<!--
+  GitHub Profile README
+  Keep this page focused on verified skills, current learning, and real projects.
+-->
 
-### Aspiring Front-End Developer | JavaScript · React
+<div align="center">
 
-I'm a self-taught developer from Algeria focused on building practical web experiences and strengthening my foundations in front-end development.
+# Akram Ben Chaa
 
-I learn by turning concepts into projects, debugging real problems, and refining my work over time. My current priority is becoming a stronger front-end developer while gradually building toward broader software development and AI.
+### Front-End Developer in Progress · JavaScript · React
 
----
+Building practical web applications, strengthening software engineering fundamentals, and exploring the technologies behind modern products.
 
-## 🧰 Skills & Tools
+[![GitHub](https://img.shields.io/badge/GitHub-AkramBenChaa-181717?style=flat&logo=github)](https://github.com/AkramBenChaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akram-ben-chaa-b75256439/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/akram.ben.chaa/)
 
-**Core technologies**
+📍 Algeria
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Tools I use**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Currently learning**
-- React and component-based UI development
-- Better project organization and maintainable code
-- Building more complete, user-friendly web applications
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-A selection of projects I've built while practicing front-end development.
+I'm a self-taught developer from Algeria focused on **front-end web development**. I learn by building projects, solving practical problems, and improving the quality and structure of my code.
 
-### ⏱️ [TimeBox](https://github.com/AkramBenChaa/TimeBox)
-A study and productivity timer built with HTML, CSS, and vanilla JavaScript. Includes focus and break modes, a stopwatch, ambient sounds, background switching, and SweetAlert2 integration.
+My current direction is to strengthen my JavaScript foundations, develop with React, and gradually expand into back-end development. In the long term, I'm interested in software engineering and artificial intelligence.
 
-**[View source](https://github.com/AkramBenChaa/TimeBox) · [Live demo](https://akrambenchaa.github.io/TimeBox/)**
+I value practical learning, maintainable code, clear interfaces, and consistent improvement over collecting technologies without applying them.
 
-### 🧮 [Calculator](https://github.com/AkramBenChaa/Calculator-Project)
-A browser-based calculator with a responsive interface and Math.js-powered expression evaluation.
+## Technical Skills
 
-**[View source](https://github.com/AkramBenChaa/Calculator-Project) · [Live demo](https://akrambenchaa.github.io/Calculator-Project/)**
+| Area | Technologies |
+|---|---|
+| **Front End** | HTML5, CSS3, JavaScript (ES6+) |
+| **Currently Learning** | React, component-based development |
+| **Programming** | Python fundamentals, object-oriented programming |
+| **Tools** | Git, GitHub, VS Code |
 
-### ✅ [To-Do List](https://github.com/AkramBenChaa/To-Do-List-WebSide-v1)
-A task management app featuring task completion and deletion, duplicate-task prevention, and localStorage persistence.
+## Featured Projects
 
-**[View source](https://github.com/AkramBenChaa/To-Do-List-WebSide-v1) · [Live demo](https://akrambenchaa.github.io/To-Do-List-WebSide-v1/)**
+A selection of projects that represent my hands-on development practice.
 
-### 🎓 [BAC Score](https://github.com/AkramBenChaa/Bac-Score-v1)
-An average calculator designed for Algeria's Baccalaureate system, with a responsive interface.
+### [TimeBox](https://github.com/AkramBenChaa/TimeBox)
+A browser-based study and productivity timer with focus sessions, breaks, stopwatch mode, ambient sounds, and dynamic backgrounds.
 
-**[View source](https://github.com/AkramBenChaa/Bac-Score-v1) · [Live demo](https://akrambenchaa.github.io/Bac-Score-v1/)**
+**Stack:** HTML · CSS · JavaScript · SweetAlert2  
+[Live Demo](https://akrambenchaa.github.io/TimeBox/)
 
-### 💱 [Currency Converter](https://github.com/AkramBenChaa/Currency-conversion-website-v1)
-A JavaScript currency converter that retrieves exchange-rate data from the Frankfurter API.
+### [Textora](https://github.com/AkramBenChaa/Textora)
+A lightweight text utility for live text statistics and common text transformations, including word counting, character counting, case conversion, and clipboard support.
 
-**[View source](https://github.com/AkramBenChaa/Currency-conversion-website-v1) · [Live demo](https://akrambenchaa.github.io/Currency-conversion-website-v1/)**
+**Stack:** HTML · CSS · JavaScript
 
-### 🎯 [Guess the Number](https://github.com/AkramBenChaa/Guess-The-Number-Game-)
-A small browser game created to practice JavaScript logic and user interaction.
+### [BacScore](https://github.com/AkramBenChaa/BacScore)
+A calculator for estimating Algerian Baccalaureate averages across different specializations, using subject marks and coefficients.
 
-**[View source](https://github.com/AkramBenChaa/Guess-The-Number-Game-) · [Live demo](https://akrambenchaa.github.io/Guess-The-Number-Game-/)**
+**Stack:** HTML · CSS · JavaScript
 
----
+### [Calcify](https://github.com/AkramBenChaa/Calcify)
+A responsive browser calculator supporting arithmetic expressions, input controls, and error handling.
 
-## 🎯 What I'm Working Toward
+**Stack:** HTML · CSS · JavaScript · Math.js
 
-- Strengthening my JavaScript and front-end fundamentals
-- Learning React through hands-on practice
-- Building projects that demonstrate practical skills
-- Improving accessibility, responsiveness, and code maintainability
-- Expanding my knowledge of software development, with a long-term interest in AI
+### [NumberQuest](https://github.com/AkramBenChaa/NumberQuest)
+A small Windows guessing game created to practice programming fundamentals, random number generation, and conditional logic.
 
----
+## Current Focus
 
-## 🤝 Connect with Me
+- Strengthening JavaScript problem-solving and application architecture.
+- Learning React and building component-based interfaces.
+- Improving responsive design, accessibility, and code maintainability.
+- Practicing Git and GitHub workflows.
+- Building a solid foundation for broader software engineering and future AI work.
 
-- **GitHub:** [@AkramBenChaa](https://github.com/AkramBenChaa)
+## Connect
+
 - **LinkedIn:** [Akram Ben Chaa](https://www.linkedin.com/in/akram-ben-chaa-b75256439/)
 - **Instagram:** [@akram.ben.chaa](https://www.instagram.com/akram.ben.chaa/)
+- **GitHub:** [@AkramBenChaa](https://github.com/AkramBenChaa)
 
 ---
 
-*Learning by building, one project at a time.*
+<div align="center">
+
+*Learn. Build. Refine.*
+
+</div>
