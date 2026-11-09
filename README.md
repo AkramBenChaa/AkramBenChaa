@@ -4,68 +4,71 @@
 
 # Akram Ben Chaa
 
-**Front-End Developer | JavaScript · React**
+**Front-End Developer · JavaScript · React**
 
-I build responsive web interfaces and practical applications while developing strong foundations in software engineering.
+Building practical web applications with a focus on clean interfaces, usability, and maintainable code.
 
-<br />
-
-<a href="https://github.com/AkramBenChaa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/akram-ben-chaa-b75256439/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<p>
+  <a href="https://github.com/AkramBenChaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/akram-ben-chaa-b75256439/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## Profile
+## About
 
-I'm a self-taught developer based in Algeria, focused on front-end development. I learn through building, testing, and refining projects — with an emphasis on usable interfaces, readable code, and practical problem-solving.
+I'm a self-taught developer based in Algeria, focused on front-end development. I learn by designing, building, testing, and improving projects that solve practical problems.
 
-My current focus is JavaScript and React. I'm also strengthening my programming fundamentals as I work toward becoming a well-rounded software engineer.
+My current work centers on **HTML, CSS, JavaScript, and React**. I’m continuously strengthening my programming fundamentals, improving my development workflow, and expanding toward full-stack software engineering.
 
-## Technologies
+I value clear problem-solving, responsive design, readable code, and learning through hands-on projects.
 
-**Core**
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## Technical Skills
 
-**Currently learning**
+| Area | Technologies |
+|---|---|
+| Front-End | HTML5 · CSS3 · JavaScript (ES6+) |
+| Framework | React (currently learning) |
+| Programming | Python |
+| Tools | Git · GitHub · VS Code |
+| Concepts | DOM manipulation · Responsive design · REST APIs · Local storage |
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+## Featured Projects
 
-**Tools & other experience**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## Selected Projects
-
-| Project | Description | |
-|---|---|---|
-| **[TimeBox](https://github.com/AkramBenChaa/TimeBox)** | Productivity timer with focus sessions, breaks, stopwatch, and ambient sounds. | [Live Demo](https://akrambenchaa.github.io/TimeBox/) |
-| **[Textora](https://github.com/AkramBenChaa/Textora)** | Text utility for word and character counts, text transformations, and clipboard actions. | |
-| **[BacScore](https://github.com/AkramBenChaa/BacScore)** | Algerian Baccalaureate average calculator based on specializations and subject coefficients. | |
-| **[Calcify](https://github.com/AkramBenChaa/Calcify)** | Responsive calculator for evaluating arithmetic expressions. | |
-| **[NumberQuest](https://github.com/AkramBenChaa/NumberQuest)** | Windows number-guessing game built to practice programming fundamentals. | |
+| Project | Overview | Repository | Live Demo |
+|---|---|---|---|
+| **Projex** | React-based portfolio that retrieves and displays GitHub repositories. | [Source](https://github.com/AkramBenChaa/Projex) | [Live Demo](https://akrambenchaa.github.io/Projex/) |
+| **Textora** | Browser-based text analyzer with word and character statistics, text transformations, and clipboard actions. | [Source](https://github.com/AkramBenChaa/Textora) | [Live Demo](https://akrambenchaa.github.io/Textora/) |
+| **TimeBox** | Productivity timer with focus sessions, breaks, stopwatch mode, and ambient sounds. | [Source](https://github.com/AkramBenChaa/TimeBox) | [Live Demo](https://akrambenchaa.github.io/TimeBox/) |
+| **BacScore** | Algerian Baccalaureate average calculator with specialization-specific subjects and coefficients. | [Source](https://github.com/AkramBenChaa/BacScore) | [Live Demo](https://akrambenchaa.github.io/BacScore/) |
+| **Calcify** | Responsive calculator for evaluating arithmetic expressions. | [Source](https://github.com/AkramBenChaa/Calcify) | [Live Demo](https://akrambenchaa.github.io/Calcify/) |
+| **TaskFlow** | Task manager with task creation, completion tracking, and bulk actions. | [Source](https://github.com/AkramBenChaa/TaskFlow) | [Live Demo](https://akrambenchaa.github.io/TaskFlow/) |
+| **CurrencyX** | Currency conversion interface with selectable currencies and live conversion logic. | [Source](https://github.com/AkramBenChaa/CurrencyX) | [Live Demo](https://akrambenchaa.github.io/CurrencyX/) |
+| **NumberQuest** | Number-guessing game; includes a browser landing page and a downloadable Windows executable. | [Source](https://github.com/AkramBenChaa/NumberQuest) | [Web Page](https://akrambenchaa.github.io/NumberQuest/) |
+| **PyTask** | Python command-line task manager with local file-based persistence. | [Source](https://github.com/AkramBenChaa/PyTask) | CLI application |
 
 ## Current Focus
 
-- Deepening JavaScript knowledge and problem-solving skills.
-- Building projects with React and reusable components.
-- Improving responsive design, accessibility, and code quality.
-- Strengthening Git workflows and software engineering fundamentals.
+- Building stronger JavaScript and React skills through practical projects.
+- Improving component design, state management, and API integration.
+- Writing clearer, more maintainable code.
+- Strengthening software engineering fundamentals and development workflows.
+
+## Connect
+
+- **GitHub:** [@AkramBenChaa](https://github.com/AkramBenChaa)
+- **LinkedIn:** [Akram Ben Chaa](https://www.linkedin.com/in/akram-ben-chaa-b75256439/)
 
 ---
 
 <div align="center">
 
-**Learn · Build · Improve**
+**Learn · Build · Iterate**
 
 </div>
